@@ -27,4 +27,4 @@ Access results by subgroup in table format here: https://github.com/SC-COSMO/hou
 &nbsp;
 &nbsp;
 
-![alt text](https://github.com/MarissaReitsma/household_exposure_transmission_risk/blob/main/figure/figure1.eps?raw=true)
+![alt text](https://github.com/MarissaReitsma/household_exposure_transmission_risk/blob/main/figure/figure1.png?raw=true)
