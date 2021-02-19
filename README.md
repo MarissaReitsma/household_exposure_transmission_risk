@@ -14,9 +14,11 @@ Access results in table format here: https://github.com/SC-COSMO/household_expos
 
 Access results by subgroup in table format here: https://github.com/SC-COSMO/household_exposure_risk/blob/main/data/formatted_xlsx/puma_estimates_withse_race_final.xlsx
 
+Access the manuscript here: https://link.springer.com/article/10.1007/s11606-021-06603-0
+
 &nbsp;
 
-#### Citation: Reitsma MB, Salomon JA, Goldhaber-Fiebert JD. Mapping Inequality in SARS-CoV-2 Household Exposure and Transmission Risk in the USA. J Gen Intern Med. 2020.
+#### Citation: Reitsma, M.B., Salomon, J.A. & Goldhaber-Fiebert, J.D. Mapping Inequality in SARS-CoV-2 Household Exposure and Transmission Risk in the USA. J GEN INTERN MED (2021). https://doi.org/10.1007/s11606-021-06603-0
 
 &nbsp;
 
